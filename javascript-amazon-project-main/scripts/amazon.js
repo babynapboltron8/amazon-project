@@ -29,7 +29,7 @@
 ];
 */
 
-let productsHTML = '';
+let productsHTML = ''; // Accumulation pattern
 
 products.forEach((product) => {
   //productsHTML = productsHTML +
